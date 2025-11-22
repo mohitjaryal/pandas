@@ -41,16 +41,16 @@ Each notebook is self-contained, focusing on one major Pandas concept with expla
 git clone https://github.com/mohitjaryal/pandas.git
 cd pandas
 
-### Setup environment
+# Setup environment
 python -m venv venv
 
-### Activate environment (Mac / linux)
+# Activate environment (Mac / linux)
 source venv/bin/activate
 
-### Activate environment (Windows)
+# Activate environment (Windows)
 venv\Scripts\activate
 
-### Install Dependencies
+# Install Dependencies
 pip install --upgrade pip
 pip install -r requirements.txt
 
