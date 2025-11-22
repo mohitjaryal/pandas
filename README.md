@@ -38,7 +38,7 @@ Each notebook is self-contained, focusing on one major Pandas concept with expla
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<mohitjaryal>/pandas.git
+git clone https://github.com/mohitjaryal/pandas.git
 cd pandas
 
 ### Setup environment
